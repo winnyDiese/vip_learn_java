@@ -10,12 +10,7 @@ public class App{
         // Msag
         System.out.println("Mon nom est " + name + ", j'ai " + age + " ans.");
 
-        // COndition
-        if(age >= 18){
-            System.out.println("You are an adult !");
-        }else{
-            System.out.println("You are not an adult !");
-        }
+        
 
         // boucle
         int i = 0;
