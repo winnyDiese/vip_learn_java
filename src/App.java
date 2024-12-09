@@ -32,18 +32,18 @@ public class App{
 
 
     // fonction
-    public static void Mara(){
-        System.out.println("Wana surnom na nga !");
-    }
+    // public static void Mara(){
+    //     System.out.println("Wana surnom na nga !");
+    // }
     
 }
 
 
-public class Person{
-    String name = "Edouard";
-    int age = 15;
+// public class Person{
+//     String name = "Edouard";
+//     int age = 15;
 
-    public static void Presentation(){
-        System.out.println("I'm " +"");
-    }
-}
+//     public static void Presentation(){
+//         System.out.println("I'm " +"");
+//     }
+// }
