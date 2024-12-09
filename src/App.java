@@ -7,10 +7,10 @@ public class App{
         int age = 16;
 
 
-        // Msag
+        // Message
         System.out.println("Mon nom est " + name + ", j'ai " + age + " ans.");
 
-        // COndition
+        // Condition
         if(age >= 18){
             System.out.println("You are an adult !");
         }else{
