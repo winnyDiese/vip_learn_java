@@ -39,11 +39,11 @@ public class App{
 }
 
 
-// public class Person{
-//     String name = "Edouard";
-//     int age = 15;
+public class Person{
+    String name = "Edouard";
+    int age = 15;
 
-//     public static void Presentation(){
-//         System.out.println("I'm " +"");
-//     }
-// }
+    public static void Presentation(){
+        System.out.println("I'm " +"");
+    }
+}
