@@ -32,9 +32,9 @@ public class App{
 
 
     // fonction
-    // public static void Mara(){
-    //     System.out.println("Wana surnom na nga !");
-    // }
+    public static void Mara(){
+        System.out.println("Wana surnom na nga !");
+    }
     
 }
 
